@@ -1,0 +1,13 @@
+*.exe
+*.pptx
+*.meta
+*.prefab
+*.bin
+*.json
+*.dll
+*.txt
+*.png
+*.mat
+*.wav
+*.xml
+*.info
